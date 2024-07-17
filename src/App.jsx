@@ -35,7 +35,7 @@ function App() {
             <p>Godziny otwarcia:</p>
             <p>pon. - pt.: 9-16</p>
             <p>sob.: 10-12</p>
-            <p>niedz.: <span class="text-[#ff0000] font-medium">zamknięte</span></p>
+            <p>niedz.: <span class="text-[#ff0000] font-medium">zamknięte </span></p>
           </div>
           </div>
           <div class="2xl:h-[380px] 2xl:w-[600px] w-full h-[400px]">
