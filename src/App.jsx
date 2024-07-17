@@ -4,7 +4,7 @@ function App() {
   return(
     <body class="font-custom font-normal">
       <div class="">
-        <img class="object-scale-down origin-left-top w-full" src="/src/assets/Baner.png" alt="Hero" />
+        <img class="object-scale-down origin-left-top w-full" src="src/assets/Baner.png" alt="Hero" />
         <h1 class="2xl:text-5xl text-2xl bg-[#1b2d79] text-white text-center">Akcesoria Lakiernicze</h1>
         <div class="relative top-[15px] 2xl:grid 2xl:grid-cols-3">
           <div class="portrait:hidden items-center justify-items-center relative left-[20px] grid grid-cols-3 grid-rows-4">

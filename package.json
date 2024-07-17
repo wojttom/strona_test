@@ -2,7 +2,7 @@
   "name": "strona_lakus",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://wojttom.github.io/strona-test",
+  "homepage": "https://wojttom.github.io/strona_test",
   "type": "module",
   "scripts": {
     "dev": "vite",
